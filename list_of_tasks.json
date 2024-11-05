@@ -1,7 +1,7 @@
 [
     {"task name" : "Assignment 2 SDFB",
       "task due date" : "November, 10th",
-      "task description" : "Each group, composed of six members, will simulate a development team using to manage the development, release, and maintenance of a product. The members are expected to collaborate to create, test, and release multiple versions of the product, managing multiple development branches and handling advanced merge conflict resolution. Additionally, the group will incorporate new features, fix bugs, and follow a rigorous review and merging process.",
+      "task description" : "Each group will simulate a development team.",
       "priority level" : 10,
       "status" : 2}
 

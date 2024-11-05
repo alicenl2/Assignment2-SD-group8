@@ -1,5 +1,5 @@
 import json
-with open('list_of_tasks.json', 'w') as file:
+with open('list_of_tasks.json', 'r') as file:
     list_of_tasks = json.load(file)
 
 
